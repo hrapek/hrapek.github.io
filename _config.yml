@@ -33,7 +33,7 @@ github_username:  jekyll
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-  - jekyll-theme
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
